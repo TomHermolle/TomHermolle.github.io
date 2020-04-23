@@ -28,7 +28,7 @@ twitter_username:
 github_username:  TomHermolle
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
